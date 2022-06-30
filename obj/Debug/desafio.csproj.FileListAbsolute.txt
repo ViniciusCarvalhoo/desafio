@@ -1,0 +1,11 @@
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\bin\Debug\desafio.exe.config
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\bin\Debug\desafio.exe
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\bin\Debug\desafio.pdb
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.csproj.AssemblyReference.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.Form1.resources
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.Properties.Resources.resources
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.csproj.GenerateResource.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.exe
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\desafio\obj\Debug\desafio.pdb
